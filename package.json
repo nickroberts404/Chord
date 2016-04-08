@@ -1,0 +1,24 @@
+{
+  "name": "chord",
+  "version": "1.0.0",
+  "description": "A small library for making some noise!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickroberts404/chord.git"
+  },
+  "keywords": [
+    "music",
+    "chords",
+    "notes"
+  ],
+  "author": "Nick Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickroberts404/chord/issues"
+  },
+  "homepage": "https://github.com/nickroberts404/chord#readme"
+}
