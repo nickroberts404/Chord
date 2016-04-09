@@ -1,0 +1,24 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.grid {
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	justify-content: center;
+}
+.row {
+	display: flex;
+	justify-content: center;
+}
+.pad {
+	height: 50px;
+	width: 50px;
+	background: #eee;
+	margin: 5px;
+}
+.pad:hover {
+	background: powderblue;
+}
