@@ -29,5 +29,9 @@ body {
 }
 
 .pad.active {
-	background: pink;
+	background: #ddd;
+}
+
+.pad.active-pad {
+	background: lightblue;
 }
