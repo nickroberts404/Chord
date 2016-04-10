@@ -6,8 +6,8 @@ export default class App extends React.Component {
 	render() {
 		return (
 			<Grid 
-				rows={4}
-				columns={4}
+				rows={5}
+				columns={5}
 			/>
 		)
 	}
